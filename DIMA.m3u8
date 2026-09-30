@@ -893,9 +893,6 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31928/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия К HD
 #EXTGRP:Общие
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32078/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВ Центр International
-#EXTGRP:Общие
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32080/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ-3 HD orig
 #EXTGRP:Общие
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32081/index.m3u8
@@ -983,7 +980,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9218/index.m3u8
 #EXTINF:0 tvg-rec="3",Мир 24 orig
 #EXTGRP:Новостные
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9219/index.m3u8
-#EXTINF:0 tvg-rec="3",RT News orig
+#EXTINF:0 tvg-rec="3",RT orig
 #EXTGRP:Новостные
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9220/index.m3u8
 #EXTINF:0 tvg-rec="3",Центральное телевидение orig
@@ -1100,10 +1097,10 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32074/index.m3u8
 #EXTINF:0 tvg-rec="0",Deutsche Welle Russian
 #EXTGRP:Новостные
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32084/index.m3u8
-#EXTINF:0 tvg-rec="0",RT News English
+#EXTINF:0 tvg-rec="0",RT English
 #EXTGRP:Новостные
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32238/index.m3u8
-#EXTINF:0 tvg-rec="0",Deutsche Welle (English)
+#EXTINF:0 tvg-rec="0",Deutsche Welle English
 #EXTGRP:Новостные
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32239/index.m3u8
 #EXTINF:0 tvg-rec="0",CCTV 4 CN
@@ -1526,22 +1523,16 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2572/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2573/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 7 (Триколор)
+#EXTINF:0 tvg-rec="3",Зал 36 (Триколор)
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2574/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 8 (Триколор)
+#EXTINF:0 tvg-rec="3",Зал 35 (Триколор)
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2575/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 9 (Триколор)
+#EXTINF:0 tvg-rec="3",Зал 31 (Триколор)
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2576/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 10 (Триколор)
-#EXTGRP:Кино
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2577/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 11 (Триколор)
-#EXTGRP:Кино
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2578/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 12 (Триколор)
+#EXTINF:0 tvg-rec="3",Зал 13 (Триколор)
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2579/index.m3u8
 #EXTINF:0 tvg-rec="3",Шокирующее HD
@@ -1973,16 +1964,16 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11017/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU СССР HD
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11026/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Action HD
+#EXTINF:0 tvg-rec="7",BCU Action HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11027/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
+#EXTINF:0 tvg-rec="7",BCU Catastrophe HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11028/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Cinema HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11029/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
+#EXTINF:0 tvg-rec="7",BCU Cinema+ HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11030/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Comedy HDR
@@ -1994,10 +1985,10 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11032/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU FilMystic HD
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11033/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU History HD
+#EXTINF:0 tvg-rec="7",BCU History HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11034/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Kinorating HD
+#EXTINF:0 tvg-rec="7",BCU Kinorating HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11037/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Marvel HDR
@@ -2006,13 +1997,13 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11038/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Premiere HD
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11039/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Romantic HD
+#EXTINF:0 tvg-rec="7",BCU Romantic HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11040/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Russian HD
+#EXTINF:0 tvg-rec="7",BCU Russian HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11041/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU VHS HD
+#EXTINF:0 tvg-rec="7",BCU VHS HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11042/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Media HD
@@ -2027,10 +2018,10 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11045/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU RuSerial HD
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11046/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Сваты HD
+#EXTINF:0 tvg-rec="7",BCU Сваты HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11047/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Criminal HD
+#EXTINF:0 tvg-rec="7",BCU Criminal HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11048/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
@@ -2057,7 +2048,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/17019/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Survival OLD
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/17020/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Cosmo HD
+#EXTINF:0 tvg-rec="0",BCU Family HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/17021/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU TruMotion HD
@@ -2825,7 +2816,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/18132/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/18133/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 9 (Триколор)
+#EXTINF:0 tvg-rec="0",Знание ТВ
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/18134/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 10 (Триколор)
@@ -3134,10 +3125,10 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32110/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmBox+ Festival
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32111/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Media 2 HD
+#EXTINF:0 tvg-rec="0",BCU Media 2 HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32220/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Media 3 HD
+#EXTINF:0 tvg-rec="0",BCU Media 3 HDR
 #EXTGRP:Кино
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32221/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan Relax 4K
@@ -3329,7 +3320,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31587/index.m3u8
 #EXTINF:0 tvg-rec="0",Cosmote Sport Highlights HD GR
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31588/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX SR Sport 4K HDR
+#EXTINF:0 tvg-rec="0",BOX SR Sport HDR
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31455/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport TV+ HD PT
@@ -3386,10 +3377,10 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31610/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31611/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX SR Sport 1 Live 4K HDR
+#EXTINF:0 tvg-rec="0",BOX SR Sport 1 Live HDR
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31550/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live 4K HDR
+#EXTINF:0 tvg-rec="0",BOX SR Sport 2 Live HDR
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31551/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Игра HD 50 orig
@@ -3437,9 +3428,6 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/14032/index.m3u8
 #EXTINF:0 tvg-rec="0",Trace Sport Stars HD
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/14030/index.m3u8
-#EXTINF:0 tvg-rec="0",Танцуй!
-#EXTGRP:Спорт
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/14023/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/535/index.m3u8
@@ -3581,7 +3569,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/2007/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/5065/index.m3u8
-#EXTINF:0 tvg-rec="3",ViaPlay Football SE
+#EXTINF:0 tvg-rec="3",V Sport Premium HD SE
 #EXTGRP:Спорт
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/5078/index.m3u8
 #EXTINF:0 tvg-rec="3",Удар HD orig
@@ -4148,7 +4136,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/31560/index.m3u8
 #EXTINF:0 tvg-rec="0",1HD Music Television HD
 #EXTGRP:Музыка
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/17038/index.m3u8
-#EXTINF:0 tvg-rec="0",Сочный Music
+#EXTINF:0 tvg-rec="0",Горящий камин
 #EXTGRP:Музыка
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/16070/index.m3u8
 #EXTINF:0 tvg-rec="0",Europa Plus TV HD
@@ -4454,7 +4442,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/17048/index.m3u8
 #EXTINF:0 tvg-rec="0",That's 80s UK
 #EXTGRP:Музыка
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/17057/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка Первого HD
+#EXTINF:0 tvg-rec="0",Tviksel Музыка 1 HD
 #EXTGRP:Музыка
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/18077/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Музыка 2 HD
@@ -4673,7 +4661,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/723/index.m3u8
 #EXTINF:0 tvg-rec="7",О!
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/727/index.m3u8
-#EXTINF:0 tvg-rec="7",Уникум
+#EXTINF:0 tvg-rec="7",Детский
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/730/index.m3u8
 #EXTINF:0 tvg-rec="7",В гостях у сказки
@@ -4727,7 +4715,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9015/index.m3u8
 #EXTINF:0 tvg-rec="3",Мульт HD orig
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9037/index.m3u8
-#EXTINF:0 tvg-rec="3",Уникум HD orig
+#EXTINF:0 tvg-rec="3",Детский HD orig
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9077/index.m3u8
 #EXTINF:0 tvg-rec="3",СТС Kids HD orig
@@ -4763,7 +4751,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9189/index.m3u8
 #EXTINF:0 tvg-rec="3",О! orig
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9190/index.m3u8
-#EXTINF:0 tvg-rec="3",Уникум HD
+#EXTINF:0 tvg-rec="3",Детский HD
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9191/index.m3u8
 #EXTINF:0 tvg-rec="3",Детский мир HD
@@ -4817,7 +4805,7 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11025/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Kids HDR
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11035/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Kids+ HD
+#EXTINF:0 tvg-rec="7",BCU Kids+ HDR
 #EXTGRP:Детские
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/11036/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Kids 4K
@@ -6308,15 +6296,3 @@ http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32277/index.m3u8
 #EXTINF:0 tvg-rec="0",МУЗ-ТВ +6
 #EXTGRP:Региональные
 http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/32278/index.m3u8
-#EXTINF:0 tvg-rec="7",Shopping Live
-#EXTGRP:Телемагазины
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/860/index.m3u8
-#EXTINF:0 tvg-rec="3",Мой Мир
-#EXTGRP:Телемагазины
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/5008/index.m3u8
-#EXTINF:0 tvg-rec="0",Женский Журнал HD
-#EXTGRP:Телемагазины
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/20010/index.m3u8
-#EXTINF:0 tvg-rec="3",Nano orig
-#EXTGRP:Телемагазины
-http://o8kqup7t.zyntras.top/iptv/PN2V9TXC56DA37FLE7GHZ2QU/9321/index.m3u8
